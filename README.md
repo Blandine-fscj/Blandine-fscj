@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Blandine 👋 
 
-<!--
-**Blandine-fscj/Blandine-fscj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- My name is Blandine, pronounced *Blond-een*.
+- I am a mother of 3.
+- I am a **Website Builder/Developer** for GoDaddy.
+- I am also a student at FSCJ in the **Telecommunications and Computer Networking Bachelor's Program**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Current Focus
+
+- I started an internship at work with our Telecom/Networking department.
+- I am learning GitHub and Python.
+
+
+## My interests
+
+- I love tennis 🎾
+- I am a **New Orleans Saints** fan 🏈
+- I love traveling ✈️
+- My favorite color is purple 💜
